@@ -5,7 +5,5 @@ class LoginResponseDto {
     }
 }
   
-module.exports = {
-    LoginResponseDto
-};
+module.exports = LoginResponseDto;
   
